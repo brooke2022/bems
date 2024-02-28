@@ -63,7 +63,7 @@ mail.jar
 注：剩余的javaee的依赖包配置在自己的eclipse环境中，
 就不再添加到lib包中
 
-
+check git remote 24.2.28
 
 
 
